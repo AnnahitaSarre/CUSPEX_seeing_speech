@@ -7,7 +7,7 @@ The goal of this paper was to delineate the brain regions involved in cued speec
 
 Article reference:
 
-> Sarré, A., & Cohen, L. (2024). Seeing speech: Neural mechanisms of cued speech perception in prelingually deaf and hearing users. bioRxiv, 2024.12.06.626971. https://doi.org/10.1101/2024.12.06.626971
+> Sarré, A., & Cohen, L. (2025). Seeing speech: Neural mechanisms of cued speech perception in prelingually deaf and hearing users. Imaging Neuroscience, 3, Article 53. https://doi.org/10.1162/IMAG.a.53
 
 
 ### 🔗 Related material
